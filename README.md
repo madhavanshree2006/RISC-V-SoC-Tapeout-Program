@@ -63,7 +63,26 @@ This program is a big step toward strengthening India’s **semiconductor ecosys
 - **Foundry & PDK**: SCL180 nm (India 🇮🇳)  
 
 ---
+<div align="center">
 
+## 📅 Weekly Progress Tracker  
+
+| Week | Theme / Focus Area | Repository / Notes | Status |
+|------|--------------------|--------------------|--------|
+| **Week 1** | 🛠️ Environment + RTL Sim Basics | *(Coming Soon)* | ⏳ In Progress |
+| **Week 2** | 🔄 Synthesis & Gate-Level Simulation | *(Upcoming)* | ⏳ Pending |
+| **Week 3** | ⚡ RISC-V ISA & Toolchain | *(Upcoming)* | ⏳ Pending |
+| **Week 4** | 🐞 Pipeline Bugs & CPU GLS | *(Upcoming)* | ⏳ Pending |
+| **Week 5** | ⏱️ STA Fundamentals | *(Upcoming)* | ⏳ Pending |
+| **Week 6** | 🔋 CMOS & SPICE (SKY130) | *(Upcoming)* | ⏳ Pending |
+| **Week 7** | 🏗️ OpenLane Floorplan & Placement | *(Upcoming)* | ⏳ Pending |
+| **Week 8** | 🌐 CTS, Routing & Post-Route STA | *(Upcoming)* | ⏳ Pending |
+| **Week 9** | 📊 Multi-Corner Timing & Sign-off | *(Upcoming)* | ⏳ Pending |
+| **Week 10** | 🏁 Final Polish & Documentation | *(Upcoming)* | ⏳ Pending |
+
+</div>
+
+---
 ## 🙏 Special Thanks 👏  
 I sincerely thank all the organizations and their key members for making this program possible 💡:  
 
