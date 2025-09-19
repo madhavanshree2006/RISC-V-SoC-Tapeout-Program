@@ -1,7 +1,13 @@
 <!-- 🌟 MAIN BANNER -->
 <h1 align="center">
-  🚀 RISC-V Reference SoC Tapeout Program 🌟 <br> <span style="color:#ff9800">Madhavan Shree</span> 
+  🚀 RISC-V Reference SoC Tapeout Program 🌟 <br> 
+  <span style="color:#ff9800; font-weight:bold; text-decoration:underline;">
+    🔥 Hi, I'm Madhavan Shree – On a Journey to Silicon! 🏭
+  </span>
 </h1>
+
+
+
 
 <div align="center">
 
@@ -14,7 +20,7 @@
 </div>
 
 <div align="center">
-🌟 Welcome to the beginning of my journey in the **VSD RISC-V SoC Tapeout Program** 🚀  
+  🌟 Welcome to the beginning of my journey in the <b>VSD RISC-V SoC Tapeout Program</b> 🚀  
 </div>
 
 ---
