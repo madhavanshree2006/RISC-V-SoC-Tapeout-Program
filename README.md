@@ -69,7 +69,7 @@ This program is a big step toward strengthening India’s **semiconductor ecosys
 
 | Week | Theme / Focus Area | Repository / Notes | Status |
 |------|--------------------|--------------------|--------|
-| **Week 1** | 🛠️ Environment + RTL Sim Basics | *(Coming Soon)* | ⏳ In Progress |
+| **Week 1** | 🛠️ Environment + RTL Sim Basics | [week0]() | ✅ completed |
 | **Week 2** | 🔄 Synthesis & Gate-Level Simulation | *(Upcoming)* | ⏳ Pending |
 | **Week 3** | ⚡ RISC-V ISA & Toolchain | *(Upcoming)* | ⏳ Pending |
 | **Week 4** | 🐞 Pipeline Bugs & CPU GLS | *(Upcoming)* | ⏳ Pending |
