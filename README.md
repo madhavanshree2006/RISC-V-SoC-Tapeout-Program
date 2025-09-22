@@ -70,7 +70,7 @@ This program is a big step toward strengthening India’s **semiconductor ecosys
 | Week | Theme / Focus Area | Repository / Notes | Status |
 |------|--------------------|--------------------|--------|
 | **Week 0** | 🌱 🖥️ Environment Setup + Git/GitHub + Intro to RTL-GDS Flow | [week0](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-0) | ✅ Completed |
-| **Week 1** | 🛠️ Environment + RTL Sim Basics | week1 | ⏳ Pending |
+| **Week 1** | 🛠️ Environment + RTL Sim Basics | [week1](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-1/tree/main) |Ongoing...🏃 |
 | **Week 2** | 🔄 Synthesis & Gate-Level Simulation (GLS) | week2 | ⏳ Pending |
 | **Week 3** | ⚡ RISC-V ISA & Toolchain | week3 | ⏳ Pending |
 | **Week 4** | 🐞 Pipeline Bugs, Clock Gating & CPU GLS | week4 | ⏳ Pending |
