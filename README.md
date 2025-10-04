@@ -70,16 +70,9 @@ This program is a big step toward strengthening India’s **semiconductor ecosys
 | Week | Theme / Focus Area | Repository / Notes | Status |
 |------|--------------------|--------------------|--------|
 | **Week 0** | 🌱 🖥️ Environment Setup + Git/GitHub + Intro to RTL-GDS Flow | [week0](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-0) | ✅ Completed |
-| **Week 1** | 🛠️ Environment + RTL Sim Basics | [week1](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-1/tree/main) |Ongoing...🏃 |
-| **Week 2** | 🔄 Synthesis & Gate-Level Simulation (GLS) | week2 | ✅ Completed |
-| **Week 3** | ⚡ RISC-V ISA & Toolchain | week3 | ⏳ Pending |
-| **Week 4** | 🐞 Pipeline Bugs, Clock Gating & CPU GLS | week4 | ⏳ Pending |
-| **Week 5** | ⏱️ STA Fundamentals | week5 | ⏳ Pending |
-| **Week 6** | 🔋 CMOS & SPICE (SKY130) | week6 | ⏳ Pending |
-| **Week 7** | 🏗️ OpenLane Floorplan → Placement | week7 | ⏳ Pending |
-| **Week 8** | 🌐 CTS, Routing & Post-Route STA | week8 | ⏳ Pending |
-| **Week 9** | 📊 Multi-Corner Timing & Sign-off | week9 | ⏳ Pending |
-| **Week 10** | 🏁 Final Polish & Documentation | week10 | ⏳ Pending |
+| **Week 1** | 🛠️ Environment & 🔄 Synthesis & Gate-Level Simulation (GLS) | [week1](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-1/tree/main) |✅ Completed |
+| **Week 2** | 🍼Simulation & synthesis of Babysoc | [week2](https://github.com/madhavanshree2006/RISC-V-SoC-Tapeout_Week-2) | ✅ Completed |
+
 
 
 </div>
